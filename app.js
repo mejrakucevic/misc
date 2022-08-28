@@ -64,7 +64,7 @@ let suma = 0;
 // //       suma+= i;
       
 // //    }
-// // }
+//  }
 // // console.log(suma);
 
 for (let i=11; i <=20; i+=2) {

@@ -43,21 +43,21 @@ if (isNaN(broj1) || isNaN(broj2)) {
 
 
 
-// Traziti od korisnika da unese neki broj. Na osnovu te vrednosti izvrsiti ispis
+//1 Traziti od korisnika da unese neki broj. Na osnovu te vrednosti izvrsiti ispis
 // kvadrata brojeva od 1 do tog unetog broja:
 
-// Izracunati aritmeticku sredinu brojeva koji su deljivi sa 3.
+//2 Izracunati aritmeticku sredinu brojeva koji su deljivi sa 3.
 // Iteracija se vrsi od 3 do 17.
 
 // Prebrojati i sabrati brojeve deljive sa 5 u intervalu od 1 do n.
 
-// 2.
+// 3.
 // Korisnik unosi broj iz intervala [12,16).
 // Na osnovu unetog broja, iteracija se vrsi od njega do 1(ukljucujuci).
 // Ispisati svaki broj iz iteracije, ljegov kvadrat i vrednost broja umanjenu za 25.
 
-//Ispisati novu recenicu gde ce svaka rec zavrsavati velikim slovom.
+//4Ispisati novu recenicu gde ce svaka rec zavrsavati velikim slovom.
 
-//Korisnik unosi dva realna broja x i y.Napisati program koji izracunava i stampa
+//5 Korisnik unosi dva realna broja x i y.Napisati program koji izracunava i stampa
 //kolicnik x/y,ako je broj y razlicit od nule,
 //a inace ispisuje poruku:Deljenje je nemoguce.

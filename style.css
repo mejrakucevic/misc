@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: #fff;
-    font-family: "Poppins", sans-serif;
+    font-family: 'IM Fell English', serif;
   }
   nav {
     position: absolute;
@@ -11,6 +11,7 @@
     display: flex;
     padding: 3rem 10rem;
     justify-content: space-between;
+    font-size: 1rem;
   }
   
   .container {
@@ -29,6 +30,7 @@
     left: 50%;
     font-size: 6rem;
     transform: translate(-50%, -30%);
+    font-weight: 100;
   }
   
   .content {
@@ -48,9 +50,31 @@
   
   .text {
     padding: 2rem 20rem;
-    font-size: 1.1rem;
+    font-size: 1.1rem; 
   }
-  Footer
-  © 2022 GitHub, Inc.
-  Footer navigation
-  Te
+
+  .text a {
+    text-decoration: none;
+    color: red;
+    justify-content: center;
+    display: flex;
+  }
+ span {
+    color: #a08179;
+ }
+  .text1 {
+    padding: 2rem 20rem;
+    font-size: 1.6rem;
+    justify-content: center;
+    display: flex;
+    margin-top: -30px;
+    text-align: center;
+  }
+
+  .ronit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 270px;
+    margin-top: 20px;
+  }
